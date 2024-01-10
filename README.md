@@ -1,5 +1,5 @@
 
-### Installation
+# Installation
 
 İlk olarak token ve channelID bilgilerini veriler.txt dosyasına doğru şekilde girmelisiniz. Bu bilgilerin nasıl alınacağı konusunda aşağıdaki videodan destek alabilirsiniz.
 
