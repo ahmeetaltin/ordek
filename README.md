@@ -3,7 +3,7 @@
 
 İlk olarak token ve channelID bilgilerini veriler.txt dosyasına doğru şekilde girmelisiniz. Bu bilgilerin nasıl alınacağı konusunda aşağıdaki videodan destek alabilirsiniz.
 
-![alt text](https://youtu.be/Wm1r6HFDA18?si=wmdbkLoV9N8trH0b&t=13)
+https://youtu.be/Wm1r6HFDA18?si=wmdbkLoV9N8trH0b&t=13
 
 veriler.txt dosyasını kendi bilgileriniz ile doldurduktan sonra örnek görüntüsü aşağıdaki gibi olmalıdır.
 
