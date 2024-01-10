@@ -25,11 +25,13 @@ Paketlenmiş öğe yükle butonuna tıklayın.
 ![alt text](https://i.imgur.com/8xWImCl.png)
 
 
+Eklentiyi yükledik fakat müzik komutlarını çalıştıracak bir botumuz yok. Bu yüzden sunucuya bir bot davet etmemiz gerekiyor. Ben şuan "Jockie Music" kullanıyorum. Aşağıdaki linkten sunucunuza davet edebilirsiniz.
+
+https://www.jockiemusic.com/status
 
 
 
-
-### Usage
+##### Usage
 
 Youtube yada music.youtube üzerinden istediğiniz şarkıyı açın ve sağ üstten eklentiye tıklayarak "Play" butonuna tıklayın.
 
